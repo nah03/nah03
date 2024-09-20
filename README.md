@@ -6,7 +6,7 @@ meu nome e Natalia Beatriz
 - Estou me desenvolvendo na lingaguem JavaScript
 - Utilizo esse espaço para me organizar e compartilhar os meus projetos
 
-### voce pode entrar em cntato comigo: mailbox
+### voce pode entrar em contato comigo: mailbox
 
 00001098117736sp@al.educacao.sp.gov.br
 
