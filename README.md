@@ -1,6 +1,6 @@
 ## Bem vindos ao meu perfi 🍓
 
-### Oie, me chamo **Natalia**
+### Oie, me chamo *Natalia Beatriz*
 
 - Estou estudando na alura
 - Estou me desenvolvendo na lingaguem JavaScript
