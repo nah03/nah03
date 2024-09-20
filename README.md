@@ -10,4 +10,4 @@ meu nome e Natalia Beatriz
 
 00001098117736sp@al.educacao.sp.gov.br
 
-! [snoop acena enquanto uma mensagem esta sobre sua cabeça dizendo youre welcome](https://tenor.com/laqiUiJpOGA.gif)
+![snoop acena enquanto uma mensagem esta sobre sua cabeça dizendo bem vindo](https://tenor.com/laqiUiJpOGA.gif)
